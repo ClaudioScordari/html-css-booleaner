@@ -28,7 +28,8 @@ header {
     color: #03A9F4
 }
 
-main {
+main,
+footer {
     margin-left: 10px;
 }
 
