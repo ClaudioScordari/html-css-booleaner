@@ -27,7 +27,18 @@ header {
     color: #03A9F4
 }
 
-.header-main,
-.img-Tim {
+main {
     margin-left: 10px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+section {
+    margin-bottom: 20px;
 }
