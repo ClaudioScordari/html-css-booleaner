@@ -45,6 +45,24 @@ section {
     margin-bottom: 20px;
 }
 
+.width-25-cell {
+    width: 25%;
+}
+
+.th-left {
+    text-align: left;
+}
+
+.color-head-table {
+    color: white;
+    background-color: #03a9f4;
+}
+
+.color-body-table {
+    background-color: #77d4ff;
+}
+
+
 h3 {
     color: grey;
 }
@@ -65,6 +83,6 @@ h3 {
 }
 
 .textFooter {
-    margin-left: 10px;
-
+    padding-left: 20px;
+    padding-top: 10px;
 }
